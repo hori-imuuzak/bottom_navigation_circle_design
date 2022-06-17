@@ -1,16 +1,5 @@
-# bottom_sheet_ciecle_design
+# Screenshot
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|iPhone13|iPhoneSE|Pixel5|
+|----|----|----|
+|<img src=https://user-images.githubusercontent.com/26102225/174302416-53428a8f-aeca-4cf3-84f1-f81b3fb6c349.png width=300 />|<img src=https://user-images.githubusercontent.com/26102225/174302406-d217670a-d77f-41ec-b7c1-787b93fd042e.png width=300 />|<img src=https://user-images.githubusercontent.com/26102225/174302421-e7e08da9-b2e7-4782-99b3-9abe7d4af9d8.png width=300 />|
